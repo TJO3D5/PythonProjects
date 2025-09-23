@@ -1,2 +1,2 @@
-# Projects
-My personal Projects done in school
+# PythonProjects
+My personal Projects done in python
